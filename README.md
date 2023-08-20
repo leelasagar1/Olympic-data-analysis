@@ -6,7 +6,8 @@ This project aims to conduct a comprehensive analysis of Olympic data spanning t
 
 ## Data Source
 
-The dataset used for this project is sourced from Kaggle and contains extensive information about Olympic athletes and results. The dataset can be accessed here: [120 years of Olympic history: athletes and results](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)
+The dataset used for this project is sourced from Kaggle and contains extensive information about Olympic athletes and results. 
+The dataset can be accessed here: [120 years of Olympic history: athletes and results](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)
 
 ## Installation and Setup
 
